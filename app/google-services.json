@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458356679110",
+    "firebase_url": "https://fir-demo-3871f.firebaseio.com",
+    "project_id": "fir-demo-3871f",
+    "storage_bucket": "fir-demo-3871f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458356679110:android:f5ef59ce7fc2bc9f2052c7",
+        "android_client_info": {
+          "package_name": "mrperfect.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458356679110-nn1u69djsd0bjkf1220bpev63jtsjiau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAkpKkLuGvwjNH-WCqLl-eCuTQQmdmmqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458356679110-nn1u69djsd0bjkf1220bpev63jtsjiau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
